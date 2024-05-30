@@ -120,7 +120,3 @@ plt.title('Average Shopping Satisfaction by Gender')
 plt.xlabel('Gender')
 plt.ylabel('Average Shopping Satisfaction')
 plt.show()
-
-
-
-
