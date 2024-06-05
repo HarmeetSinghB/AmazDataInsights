@@ -33,3 +33,9 @@ The dataset consists of survey responses from Amazon customers, covering variabl
 - Reduce packaging waste.
 - Improve customer service.
 - Enhance personalized recommendations.
+
+## Credits
+
+Data sources:
+([https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml#](https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset))
+
